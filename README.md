@@ -1,3 +1,4 @@
-# wiki
-Main working wiki for instructions for things in the hackspace
-Go to [wiki page](https://github.com/DoESLiverpool/wiki/wiki)
+Main working wiki for instructions for things in DoESLiverpool
+
+# [wiki Front Page](https://github.com/DoESLiverpool/wiki/wiki)
+# [somebody-should list](https://github.com/DoESLiverpool/somebody-should/issues)
